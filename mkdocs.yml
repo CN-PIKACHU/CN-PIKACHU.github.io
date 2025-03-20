@@ -1,4 +1,6 @@
 site_name: 菲尼瑞斯资料下载中心
+site_url: https://cn-pikachu.github.io/
+site_author: FNIRSI-菲尼瑞斯
 
 nav:
     - 数字示波器:
